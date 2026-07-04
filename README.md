@@ -2,6 +2,7 @@
 ### Full Stack Software Engineer • AI Engineer • Backend Specialist
 I build production-ready applications, scalable backend systems, and AI-powered products.
 Currently working as a **Full Stack Engineer**, building modern web applications, AI integrations, and backend infrastructure using Node.js, Python, PostgreSQL, and React ecosystems.
+
 ---
 ## 🚀 About Me
 - 💼 Full Stack Engineer
@@ -9,6 +10,7 @@ Currently working as a **Full Stack Engineer**, building modern web applications
 - ⚡ Backend-focused with strong frontend experience
 - 🌍 Interested in remote startup opportunities
 - 📈 Passionate about scalable architecture, system design and automation
+
 ---
 ## 🛠 Tech Stack
 ### Languages
@@ -51,6 +53,7 @@ Currently working as a **Full Stack Engineer**, building modern web applications
 - Vercel
 - Railway
 - Render
+
 ---
 # 📌 Featured Projects
 ## 🏡 Houser – AI Powered Real Estate Platform
@@ -62,6 +65,7 @@ Building the backend infrastructure for a US-based real estate startup that deli
 - Integrated an AI-powered property assistant to improve property discovery and investment decision-making
 **Tech Stack**
 Node.js • Express • PostgreSQL • Sequelize • OpenAI • Redis
+
 ---
 ## ✨ Astroma – AI Powered Astrology Platform
 Built the backend infrastructure for an AI-powered astrology application delivering personalized predictions and compatibility reports.
@@ -72,6 +76,7 @@ Built the backend infrastructure for an AI-powered astrology application deliver
 - Managed application data with MongoDB
 **Tech Stack**
 FastAPI • Python • Gemini • MongoDB
+
 ---
 ## 📊 KPI Tracking Platform – Healthcare Analytics
 Developed a healthcare analytics platform enabling organizations to monitor and analyze key performance indicators through interactive dashboards.
@@ -82,6 +87,7 @@ Developed a healthcare analytics platform enabling organizations to monitor and 
 - Improved data visualization and reporting experience
 **Tech Stack**
 NextJS • NestJS • PostgreSQL 
+
 ---
 ## 🤖 BeyondBytes – AI Powered Screen Analytics Platform
 Built an AI-powered digital wellness platform that analyzes screen time from workbook images and generates personalized insights.
@@ -92,12 +98,13 @@ Built an AI-powered digital wellness platform that analyzes screen time from wor
 - Leveraged LangChain to orchestrate AI workflows
 **Tech Stack**
 Python • OpenAI • LangChain • RAG • FastAPI • Supabase
+
 ---
 ## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahm3d-Shaikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm3d-Shaikh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahm3d-Shaikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm3d-Shaikh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -108,16 +115,21 @@ Python • OpenAI • LangChain • RAG • FastAPI • Supabase
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahm3d-Shaikh&theme=tokyo-night&hide_border=true" alt="Ahm3d-Shaikh's Activity Graph" width="100%" />
 </p>
 
-<!--START_SECTION:waka-->
-<!-- Optional: contribution snake animation (needs a one-time GitHub Action setup, see notes below) -->
+<!--
+Contribution snake animation — not active yet.
+This requires a one-time GitHub Action to run in your repo first (it generates
+the SVG file the line below points to). Once you've added the workflow
+(see the setup notes I've shared), uncomment the block below.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ahm3d-Shaikh/Ahm3d-Shaikh/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
 </p>
-<!--END_SECTION:waka-->
+-->
 
 ---
 # 🤝 Let's Connect
 🌐 Portfolio: https://mahmeddev.vercel.app
 💼 LinkedIn: https://www.linkedin.com/in/muhammadahm3d/
 📫 Email: muhammad.ahmed1059@gmail.com
+
 ---
