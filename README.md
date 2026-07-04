@@ -115,7 +115,7 @@ Python • OpenAI • LangChain • RAG • FastAPI • Supabase
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahm3d-Shaikh&theme=tokyo-night&hide_border=true" alt="Ahm3d-Shaikh's Activity Graph" width="100%" />
 </p>
 
-<!--
+
 Contribution snake animation — not active yet.
 This requires a one-time GitHub Action to run in your repo first (it generates
 the SVG file the line below points to). Once you've added the workflow
@@ -124,7 +124,6 @@ the SVG file the line below points to). Once you've added the workflow
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ahm3d-Shaikh/Ahm3d-Shaikh/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
 </p>
--->
 
 ---
 # 🤝 Let's Connect
