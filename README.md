@@ -103,11 +103,6 @@ Python • OpenAI • LangChain • RAG • FastAPI • Supabase
 ## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahm3d-Shaikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm3d-Shaikh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ahm3d-Shaikh&theme=tokyonight&hide_border=true" alt="Ahm3d-Shaikh's Streak Stats" />
 </p>
 
@@ -116,16 +111,12 @@ Python • OpenAI • LangChain • RAG • FastAPI • Supabase
 </p>
 
 
-Contribution snake animation — not active yet.
-This requires a one-time GitHub Action to run in your repo first (it generates
-the SVG file the line below points to). Once you've added the workflow
-(see the setup notes I've shared), uncomment the block below.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ahm3d-Shaikh/Ahm3d-Shaikh/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
 </p>
 
 ---
+
 # 🤝 Let's Connect
 🌐 Portfolio: https://mahmeddev.vercel.app
 💼 LinkedIn: https://www.linkedin.com/in/muhammadahm3d/
