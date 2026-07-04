@@ -144,6 +144,14 @@ Python • OpenAI • LangChain • RAG • FastAPI • Supabase
 
 ---
 
+[![Ahm3d-Shaikh's Activity Graph](https://vercel.app)](https://github.com)
+
+![Ahm3d-Shaikh's 3D Graph](https://vercel.app)
+
+[![Ahm3d-Shaikh's Stats](https://vercel.app)](https://github.com)
+
+
+
 # 🤝 Let's Connect
 
 🌐 Portfolio: https://mahmeddev.vercel.app
