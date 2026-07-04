@@ -116,10 +116,9 @@ Python • OpenAI • LangChain • RAG • FastAPI • Supabase
 </p>
 
 ---
-
 # 🤝 Let's Connect
-🌐 Portfolio: https://mahmeddev.vercel.app
-💼 LinkedIn: https://www.linkedin.com/in/muhammadahm3d/
+🌐 Portfolio: https://mahmeddev.vercel.app  
+💼 LinkedIn: https://www.linkedin.com/in/muhammadahm3d/  
 📫 Email: muhammad.ahmed1059@gmail.com
-
+ 
 ---
