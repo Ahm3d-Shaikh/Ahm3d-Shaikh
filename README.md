@@ -76,78 +76,82 @@ Currently working as a **Full Stack Engineer**, building modern web applications
 
 # 📌 Featured Projects
 
-## 🏡 AI Real Estate Platform
+## 🏡 Houser – AI Powered Real Estate Platform
 
-Production-grade real estate platform featuring:
+Building the backend infrastructure for a US-based real estate startup that delivers persona-based property insights and investment recommendations.
 
-- AI property recommendations
-- Mortgage calculations
-- Geospatial property search
-- Investment analytics
-- Interactive maps
-- High-performance PostgreSQL queries
+### Highlights
 
-**Stack**
+- Built scalable backend APIs using Node.js and PostgreSQL
+- Developed advanced property filtering for different buyer personas
+- Optimized complex database queries for large real estate datasets
+- Integrated an AI-powered property assistant to improve property discovery and investment decision-making
 
-Node.js • PostgreSQL • Sequelize • React • Google Maps • OpenAI
+**Tech Stack**
 
----
-
-## 🤖 AI Voice Real Estate Agent
-
-A conversational AI assistant capable of:
-
-- Real-time voice conversations
-- Property search
-- Image understanding
-- Context-aware recommendations
-- OpenAI Realtime API integration
-
-**Stack**
-
-FastAPI • OpenAI • WebRTC • Python
+Node.js • Express • PostgreSQL • Sequelize • OpenAI • Redis
 
 ---
 
-## 💬 Social Media PWA
+## ✨ Astroma – AI Powered Astrology Platform
 
-A fully-featured social platform including:
+Built the backend infrastructure for an AI-powered astrology application delivering personalized predictions and compatibility reports.
 
-- Live chat
-- Push notifications
-- Authentication
-- Responsive PWA
-- Social interactions
+### Highlights
 
-**Stack**
+- Designed scalable backend services using FastAPI
+- Integrated Gemini models for AI-generated astrological insights
+- Built APIs for personalized predictions and compatibility analysis
+- Managed application data with MongoDB
 
-Next.js • Firebase • MongoDB
+**Tech Stack**
+
+FastAPI • Python • Gemini • MongoDB
+
+---
+
+## 📊 KPI Tracking Platform – Healthcare Analytics
+
+Developed a healthcare analytics platform enabling organizations to monitor and analyze key performance indicators through interactive dashboards.
+
+### Highlights
+
+- Built interactive KPI dashboards
+- Implemented advanced filtering and reporting
+- Optimized backend APIs for analytics workloads
+- Improved data visualization and reporting experience
+
+**Tech Stack**
+
+NextJS • NestJS • PostgreSQL 
 
 ---
 
-## 📚 Arabic Learning Platform
+## 🤖 BeyondBytes – AI Powered Screen Analytics Platform
 
-Interactive AI-powered education platform featuring:
+Built an AI-powered digital wellness platform that analyzes screen time from workbook images and generates personalized insights.
 
-- AI Tutor
-- Handwriting recognition
-- CNN image classification
-- Leaderboards
-- Smart revision system
+### Highlights
 
-**Stack**
+- Implemented Retrieval-Augmented Generation (RAG)
+- Integrated OpenAI models for personalized recommendations
+- Built document processing pipelines
+- Leveraged LangChain to orchestrate AI workflows
 
-Next.js • PyTorch • HuggingFace • LangChain
+**Tech Stack**
+
+Python • OpenAI • LangChain • RAG • FastAPI • Supabase
 
 ---
+
 
 # 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Unfathomable-08&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahm3d-Shaikh&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unfathomable-08&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm3d-Shaikh&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
