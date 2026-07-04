@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Ahmed 👋
+# Hi, I'm Muhammad Ahmed
 
 ### Full Stack Software Engineer • AI Engineer • Backend Specialist
 
@@ -141,27 +141,6 @@ Built an AI-powered digital wellness platform that analyzes screen time from wor
 **Tech Stack**
 
 Python • OpenAI • LangChain • RAG • FastAPI • Supabase
-
----
-
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahm3d-Shaikh&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm3d-Shaikh&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Distributed Systems
-- System Design
-- AI Agents
-- Multi-Agent Workflows
-- Kubernetes
-- Cloud Architecture
 
 ---
 
